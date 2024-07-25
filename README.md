@@ -71,6 +71,11 @@ If you are not comfortable with the command line interface (CLI), you can use `a
   - `clean_log(file_path)`: Cleans the log file by removing unnecessary key strokes.
   - `start()`: Starts the keylogger and listens for key presses.
 
+## Things to Remember
+
+- When you run the `clickme.exe` file, it will operate in the background without showing any visible indication. It will appear in the task manager.
+- The keylogger will not capture the password if the user switches accounts or locks the screen. However, it will continue to run in the background when the user logs back in.
+
 ## Contributing
 
 Feel free to contribute to the project by submitting issues, suggestions, or pull requests.
