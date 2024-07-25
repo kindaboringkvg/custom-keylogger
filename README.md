@@ -34,7 +34,7 @@ This KeyLogger is a Python script designed to log keystrokes to a file. It captu
 
 1. Run the script:
    ```bash
-   python keylogger.py
+   python test123.py
    ```
 2. The script will start logging keystrokes and writing them to `log.txt`.
 3. Press `F1` and `F2` together to stop the script.
